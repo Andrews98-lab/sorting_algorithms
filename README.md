@@ -14,3 +14,8 @@ Don’t forget to push your header file
 All your header files should be include guarded
 A list/array does not need to be sorted if its size is less than 2.
 GitHub
+General
+At least four different sorting algorithms
+What is the Big O notation, and how to evaluate the time complexity of an algorithm
+How to select the best sorting algorithm for a given input
+What is a stable sorting algorithm
